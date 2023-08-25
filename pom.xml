@@ -10,9 +10,9 @@
 	</parent>
 	<groupId>br.com.calculadora</groupId>
 	<artifactId>projetocalculadora</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<name>projetocalculadora</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Projeto calculadora</description>
 	<properties>
 		<java.version>20</java.version>
 	</properties>
